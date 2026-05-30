@@ -26,4 +26,5 @@ HYPIC is a desktop application developed to perform various digital image proces
 **📸 Application Screenshot**
 *<img width="167" height="328" alt="Ảnh màn hình 2026-05-30 lúc 11 56 51" src="https://github.com/user-attachments/assets/f47d0523-48f5-4f48-bfcb-2474d31f8865" />*
 *<img width="246" height="239" alt="Ảnh màn hình 2026-05-30 lúc 11 58 31" src="https://github.com/user-attachments/assets/d61b80b3-459e-45d3-bf9d-30338c18a997" />*
+<img width="230" height="446" alt="image" src="https://github.com/user-attachments/assets/5d90c6ec-3108-47f9-b18d-4b296b01720c" />
 
