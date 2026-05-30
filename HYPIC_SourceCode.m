@@ -83,7 +83,7 @@ classdef HYPIC < matlab.apps.AppBase
         % Image clicked function: Image, Image10, Image2, Image3, Image4, 
         % ...and 5 other components
         function ImageClicked(app, event)
-            % 1. Lấy ảnh từ chính cái Image vừa click (hoặc imread file gốc)
+            % 1. Lấy ảnh từ  Image vừa click (hoặc imread file gốc)
             app.OriginalImage = imread(event.Source.Tag); 
             app.ProcessedImage = app.OriginalImage;
     
